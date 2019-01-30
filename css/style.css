@@ -1,0 +1,26 @@
+
+body{
+    padding:20px;
+}
+#title1{
+    font-family:helvetica;
+    font-size:50px;
+    color:#ffe954;
+}
+subtitle{
+    font-family:helvetica;
+    font-size:12px;
+    color:#ffde00;
+}
+
+li{
+    padding-bottom:20px;
+}
+
+
+content{
+    padding:15px;
+    font-family:helvetica;
+    font-size:20px;
+    color:#ffde00;
+}
